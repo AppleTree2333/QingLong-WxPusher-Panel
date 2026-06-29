@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# 敏感配置及脱敏示例
+*.json
+*.txt
+.env
+
+# 忽略所有业务脚本，只保留公共模块和模板
+*.py
+!wxpusher_utils.py
+!WXPUSHER_TEMPLATE.py
