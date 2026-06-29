@@ -36,8 +36,7 @@
 将以下文件放入你的青龙脚本目录中：
 
 - `wxpusher_utils.py`
-- `WXPUSHER_TEMPLATE.py`
-- `WXPUSHER_AI_GUIDE.md`（可选，供 AI 或开发者参考）
+
 
 ### 2. 配置环境变量
 
@@ -123,7 +122,6 @@ push_html_panel(
 ```text
 /ql/data/scripts/
 ├── wxpusher_utils.py
-├── WXPUSHER_TEMPLATE.py
 ├── your_script.py
 ```
 
